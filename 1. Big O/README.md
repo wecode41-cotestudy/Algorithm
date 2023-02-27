@@ -5,7 +5,7 @@
 - Can find out the part where performance time is too long
 - Can reduce performance time (fix our code)
 
-## Let's calculate running time of this code!
+## Let's calculate performance time of this code!
 
 ```
 for
@@ -29,5 +29,5 @@ N = 10, 100, 1000, 1000000....
 for
   for
 ```
-- In `if A and B`, let A that takes shorter performance time
+- In `if A and B`, set A that takes shorter performance time
   - When running `if A and B`, if A is false, B is not performed. 
