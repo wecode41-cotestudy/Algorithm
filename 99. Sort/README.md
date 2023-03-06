@@ -19,8 +19,10 @@ https://janghw.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Divide-and
 
 - Merge Sort
 https://velog.io/@jimmy48/%EB%B3%91%ED%95%A9-%EC%A0%95%EB%A0%ACMerge-Sort
-공간 복잡도 계산
-병합할 곳의 새로운 배열을 생성해줘야한다. 정렬할 배열과 같은 크기(n)의 새로운 배열이 필요하다. 따라서 공간복잡도는 O(2n)이다.
+공간 복잡도 계산   
+병합할 곳의 새로운 배열을 생성해줘야한다. 정렬할 배열과 같은 크기(n)의 새로운 배열이 필요하다. 따라서 공간복잡도는 O(2n)이다.   
+공간 복잡도   
+https://velog.io/@cha-suyeon/Algorithm-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EA%B3%B5%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84
 
 - Quick Sort
 https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
